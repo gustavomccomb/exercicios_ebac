@@ -1,2 +1,2 @@
 # exercicios_ebac
-Exercícios da EBAC do curso de Qualidade de Software
+Esses exercícios estão alinhados com o método BDD (Behavior-Driven Development), utilizando a sintaxe do Gherkin para descrever critérios de aceitação.
